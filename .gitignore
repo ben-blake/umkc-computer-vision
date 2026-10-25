@@ -21,3 +21,7 @@ octave-workspace
 .claude/
 .mcp.json
 /startup.m
+
+# HW3 gradient features, 156 MB, over GitHub's 100 MB file limit.
+# hw3_q1_features rebuilds it in about 25 s.
+/hw3-gradient-features/gradient_features.mat
