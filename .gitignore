@@ -25,3 +25,8 @@ octave-workspace
 # HW3 gradient features, 156 MB, over GitHub's 100 MB file limit.
 # hw3_q1_features rebuilds it in about 25 s.
 /hw3-gradient-features/gradient_features.mat
+
+# HW4 photos of me as taken, full resolution. The 20 by 20 crops the
+# assignment needs are in hw4_faces.mat.
+/hw4-subspace-methods/self/
+/hw4-subspace-methods/hw4-report (original backup).docx
